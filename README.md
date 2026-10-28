@@ -37,10 +37,3 @@ Sinta-se à vontade para explorar os meus repositórios e projetos!
 </picture>
 <img align="center" width="1000" height="300" alt="Image" src="https://github.com/user-attachments/assets/aba089ff-21e7-492d-a75d-61abae556ff4" />
 <div align="center">
-
-  ### 👾 Mini-Game Interativo no Perfil
-  **Consegue esmagar todos os bugs antes do tempo acabar?**
-  
-  [![Jogue Bug Smasher](https://img.shields.io/badge/🎮_JOGAR_NOW-BUG_SMASHER-00F2FE?style=for-the-badge&logo=gamepad&logoColor=white&color=00f2fe)](https://owally11.github.io/bug-smasher-game/)
-
-</div>
