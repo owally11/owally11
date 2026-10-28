@@ -8,9 +8,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ff8cb4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+Eu+sou+o+Allison+!+)](https://git.io/typing-svg)
 
-Formado em Design Gráfico e atualmente a cursando Análise e Desenvolvimento de Sistemas. A minha trajetória é movida pela disposição e criatividade, tecnologia e lógica para impulsionar a transformação digital.  
-Tenho experiência prática na criação e edição de imagens utilizando Photoshop e Illustrator, desenvolvimento de projetos de interfaces (UI) e criação de tipografias. No desenvolvimento web, aplico conhecimentos em HTML e CSS na construção de soluções visuais e funcionais.
-Procuro buscar a inovação nos meus trabalhos, utilizando a IA e a IA Generativa de forma consciente e responsável, sabendo exatamente quando gerar elementos e como modificá-los tecnicamente para alcançar o melhor resultado. Além disso, utilizo a análise de dados para conectar os objetivos de negócios às necessidades reais das pessoas.
+<div align="center">
+
+Formado em **Design Gráfico** e atualmente cursando **Análise e Desenvolvimento de Sistemas**. A minha trajetória é movida pela disposição, criatividade, tecnologia e lógica para impulsionar a transformação digital.
+
+Tenho experiência prática na criação e edição de imagens utilizando **Photoshop** e **Illustrator**, desenvolvimento de projetos de interfaces (**UI**) e criação de tipografias. No desenvolvimento web, aplico conhecimentos em **HTML** e **CSS** na construção de soluções visuais e funcionais. 
+
+Procuro buscar a inovação nos meus trabalhos, utilizando a **IA e IA Generativa** de forma consciente e responsável, sabendo exatamente quando gerar elementos e como modificá-los tecnicamente para alcançar o melhor resultado. Além disso, utilizo a **análise de dados** para conectar os objetivos de negócios às necessidades reais das pessoas.
+
+</div>
 
 ###  Tecnologias & Ferramentas
 
