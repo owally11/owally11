@@ -36,7 +36,6 @@ Sinta-se à vontade para explorar os meus repositórios e projetos!
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 <img align="center" width="1000" height="300" alt="Image" src="https://github.com/user-attachments/assets/aba089ff-21e7-492d-a75d-61abae556ff4" />
-[https://owally11.github.io/bug-smasher-game/](https://owally11.github.io/bug-smasher-game/)
 <div align="center">
 
   ### 👾 Mini-Game Interativo no Perfil
