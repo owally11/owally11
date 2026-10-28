@@ -6,7 +6,7 @@
 <img align="center" alt="" src="./src/header-gif.gif">
 <img align="right" alt="" height="900px" src="./me.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ff8cb4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+Eu+sou+o+Allison+!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ff8cb4&random=false&width=435&height=40&lines=Oii,+Eu+sou+o+Allison+!+)](https://git.io/typing-svg)
 
 <div align="center">
 
