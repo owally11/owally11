@@ -26,10 +26,7 @@ Procuro buscar a inovação nos meus trabalhos, utilizando a **IA e IA Generativ
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  <a href="https://github.com/owally11">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=owally11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
----
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
